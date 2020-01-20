@@ -1,0 +1,10 @@
+{"homepage":"https://abbiewachira.github.io/recipe-react-app"},
+
+"scripts": {    
+    "start": "react-scripts start",
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+ },
